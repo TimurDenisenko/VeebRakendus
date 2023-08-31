@@ -1,0 +1,13 @@
+/* */
+header{
+    color: white;
+    background-color: black;
+    width: 21.4%;
+
+}
+header h1{
+    font-family: Comic Sans MS;
+    font-size: larger;
+    letter-spacing: 0.15cm;
+    border-bottom: solid 5pt red; /*dotted dashed double*/
+}
